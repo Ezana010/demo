@@ -14,7 +14,7 @@ drive.mount('/content/drive')
 #you arer going to need to place the dataset into the right directory on Google Drive for this to work properly.
 #Q1. Modify the following line of code or put the dataset into the right directory.
 # %cd /content/drive/My Drive/
-
+fgdsdfgsdgsd
 import pandas as pd
 
 data = pd.read_csv('vertebrate.csv',header='infer')
